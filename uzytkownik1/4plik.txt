@@ -1,1 +1,4 @@
+
 Zmiana z poziomu master
+Dokonuje jakiejs zmiany
+
