@@ -2,3 +2,4 @@
 Zmiana z poziomu master
 Dokonuje jakiejs zmiany
 
+Modyfikacja delete lub modyfikacja.
